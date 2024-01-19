@@ -1,2 +1,2 @@
-# Oleum Technologies
-Oleum Technologies is developing an innovative healthcare software platform focused on enhancing harm reduction services. This platform aims to streamline patient care management, improve administrative efficiency, and ensure compliance with healthcare regulations, ultimately facilitating better patient outcomes and accessibility in addiction recovery and related healthcare sectors.
+# Oleum Software
+Oleum Software is developing an innovative healthcare software platform focused on enhancing harm reduction services. This platform aims to streamline patient care management, improve administrative efficiency, and ensure compliance with healthcare regulations, ultimately facilitating better patient outcomes and accessibility in addiction recovery and related healthcare sectors.
